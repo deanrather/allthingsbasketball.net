@@ -1,2 +1,2 @@
-# imranrather.com
-source code and static host for imranrather.com
+# imranrather.xyz
+source code and static host for imranrather.xyz
