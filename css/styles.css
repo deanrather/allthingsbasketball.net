@@ -16,7 +16,7 @@ body {
 	padding: 5px;
 	border: 1px solid #cccc33;
 	border-radius: 7pt;
-	background-image:url(../images/michael%20jordan.png);
+	background: #ffffff
 
 	flex: 3 1 60%;
 	order: 2;
