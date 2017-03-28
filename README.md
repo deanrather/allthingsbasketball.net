@@ -1,4 +1,4 @@
-# imranrather.xyz
+# allthingsbasketball.net
 
-- source code and static host for http://imranrather.xyz
-- hosted at http://blog.deanrather.github.io/imranrather.xyz
+- source code and static host for http://allthingsbasketball.net
+- hosted at http://blog.deanrather.github.io/allthingsbasketball.net
