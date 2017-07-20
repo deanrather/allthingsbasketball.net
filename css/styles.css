@@ -1,6 +1,6 @@
 body {
 	font: 24px Helvetica;
-	background: #999999;
+	background: #ffffff;
 }
 
 #main {
@@ -50,7 +50,7 @@ header {
 	height: 80px;
 	border: 0px solid #ff0000;
 	border-radius: 7pt;
-	background: #ffffff;
+	background: #E0E0E0;
 }
 
 footer{
@@ -60,19 +60,19 @@ height:		display: block;
 		height: 30px;
 		border: 0px solid #ff0000;
 		border-radius: 7pt;
-		background: #ffffff; 50px;
+		background: #E0E0E0; 50px;
 }
 header li img{
 height: 50px;
 }
-img {
-  opacity: 0.5;
-  filter: alpha(opacity=50);
+ img {
+  opacity: 1.0;
+  filter: alpha50);
 }
 
-img:hover {
-  opacity: 1.0;
-  filter: alpha(opacity=100);
+ img:hover {
+  opacity: 0.3;
+  filter: alpha100);
 
 }
 header li {
